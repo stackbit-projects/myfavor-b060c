@@ -5,6 +5,9 @@ testimonial_item:
   - thumb: images/testimonial/user-thumb-one.jpg
     name: Simonns Hodge
     company_position: 'CEO, Credito'
+  - name: lorem-ipsum
+    company_position: lorem-ipsum
+    quote: lorem-ipsum
   - thumb: images/testimonial/user-thumb-two.jpg
     name: Rekon Montino
     company_position: 'CDO, Bulmuci'
