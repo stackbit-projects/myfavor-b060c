@@ -45,3 +45,6 @@ testimonial_item:
       "We’re a really busy restaurant, and roxo gives our customers a easy way
       to order, pay, and pick up their food so they can beat the line and beat
       that lunch rush." 
+  - name: lorem-ipsum
+    company_position: lorem-ipsum
+    quote: lorem-ipsum
