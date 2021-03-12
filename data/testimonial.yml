@@ -8,6 +8,9 @@ testimonial_item:
   - name: lorem-ipsum
     company_position: lorem-ipsum
     quote: lorem-ipsum
+  - name: lorem-ipsum
+    company_position: lorem-ipsum
+    quote: lorem-ipsum
   - thumb: images/testimonial/user-thumb-two.jpg
     name: Rekon Montino
     company_position: 'CDO, Bulmuci'
