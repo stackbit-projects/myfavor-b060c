@@ -8,4 +8,6 @@ counter_item:
     number: '350'
   - title: Telephone Talks
     number: '775'
+  - title: lorem-ipsum
+    number: lorem-ipsum
 heading: Сколько студентов учатся в вузе
